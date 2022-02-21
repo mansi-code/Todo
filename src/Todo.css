@@ -65,8 +65,27 @@ h1,h2,h3,h4{
     width: 50%;
 }
 
-.deleteBtn{
+.deleteBtn, .editBtn{
     float:right;
     background-color: transparent;
     border: none;
+}
+
+.editBtn, .inputEdit{
+    background-color: transparent;
+    margin-right: 2%;
+    border:none;
+}
+.inputEdit{
+    color: blueviolet;
+}
+.deleteAll{
+    display: flex;
+    background-color: lightsalmon;
+    border: none;
+    border-radius: 10%;
+    border:none;
+    outline:none;
+    height: 20%;
+    width: 30%;
 }
