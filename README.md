@@ -1,3 +1,35 @@
+Basic ReactJs project on TODO application. The project has add item, edit item, delete one item and delete all items functionalities . The icons are used from FONT AWESOME .
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/56988137/154987320-b188f9a8-e93b-4b1a-9b2c-dc6f339d636d.png">
+
+***ADD ITEMS TO LIST***
+![image](https://user-images.githubusercontent.com/56988137/154988012-372aefee-2add-40de-a990-d71947dd5f31.png)
+![image](https://user-images.githubusercontent.com/56988137/154988051-107e38bb-4a07-4df8-bff7-09b9ee76477c.png)
+#
+***EDIT ReactJS to REACT JAVASCRIPT***
+#
+CLICK ON EDIT BUTTON AND INPUT HAS VALUE
+![image](https://user-images.githubusercontent.com/56988137/154988204-97440040-d300-4400-a4a1-fa1c6b475419.png)
+  CHANGE VALUE AND CLICK ON TICK AND CHANGES REFLECT IN SAME ITEM
+![image](https://user-images.githubusercontent.com/56988137/154988456-f2dc57ca-5fb7-46f5-8af2-5dc281436abf.png)
+#
+***DELETE AN ITEM***
+![image](https://user-images.githubusercontent.com/56988137/154988752-5d7cf595-3f93-4567-8db7-23205d82c70d.png)
+![image](https://user-images.githubusercontent.com/56988137/154988801-8315a833-5954-44b2-9e7d-e5f171d78ca8.png)
+#
+****DELETE ALL***
+![image](https://user-images.githubusercontent.com/56988137/154988892-b6f75a6c-234f-440a-8d25-875e4a95f84f.png)
+
+#
+***EMPTY STRING GIVES ALERT***
+![image](https://user-images.githubusercontent.com/56988137/154989005-89edf82c-f189-4be9-bb43-be5f83c630bc.png)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
