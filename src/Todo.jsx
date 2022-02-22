@@ -94,7 +94,11 @@ const Todo = () =>{
                         
                     
                 }
-               <button className='deleteAll' onClick={deleteAll}><i class="fa fa-trash"></i> &nbsp; DELETE ALL</button>
+                {
+                    (data.length>0)?( <button className='deleteAll' onClick={deleteAll}><i class="fa fa-trash"></i> &nbsp; DELETE ALL</button>):(<div></div>)
+                       
+                }
+               
                
             </div>
             
